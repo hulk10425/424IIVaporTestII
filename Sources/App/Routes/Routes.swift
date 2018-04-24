@@ -9,6 +9,7 @@ extension Droplet {
         }
 
         get("plaintext") { req in
+            print("123123123")
             return "Hello, world!"
         }
 
