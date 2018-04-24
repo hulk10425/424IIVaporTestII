@@ -4927,7 +4927,7 @@
 			path = Setup;
 			sourceTree = "<group>";
 		};
-		OBJ_153 /* Vapor 2.4.4 */ = {
+		OBJ_153 /* Vapor */ = {
 			isa = PBXGroup;
 			children = (
 				OBJ_154 /* Testing */,
@@ -4937,7 +4937,7 @@
 				OBJ_315 /* Cache */,
 				OBJ_318 /* Package.swift */,
 			);
-			name = "Vapor 2.4.4";
+			name = Vapor;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_154 /* Testing */ = {
@@ -5286,10 +5286,10 @@
 		OBJ_27 /* Dependencies */ = {
 			isa = PBXGroup;
 			children = (
-				OBJ_28 /* FluentProvider 1.3.0 */,
+				OBJ_28 /* FluentProvider */,
 				OBJ_53 /* Fluent 2.5.1 */,
 				OBJ_141 /* SQLite 2.3.1 */,
-				OBJ_153 /* Vapor 2.4.4 */,
+				OBJ_153 /* Vapor */,
 				OBJ_319 /* Routing 2.2.1 */,
 				OBJ_336 /* Multipart 2.2.1 */,
 				OBJ_350 /* JSON 2.2.2 */,
@@ -5329,13 +5329,13 @@
 			path = Serve;
 			sourceTree = "<group>";
 		};
-		OBJ_28 /* FluentProvider 1.3.0 */ = {
+		OBJ_28 /* FluentProvider */ = {
 			isa = PBXGroup;
 			children = (
 				OBJ_29 /* FluentProvider */,
 				OBJ_52 /* Package.swift */,
 			);
-			name = "FluentProvider 1.3.0";
+			name = FluentProvider;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_283 /* Sessions */ = {
